@@ -10,7 +10,8 @@
 > **A Professional Java Desktop Application**  
 > An advanced implementation demonstrating modern GUI development, enterprise design patterns, and real-time data visualization.
 
----
+<img width="980" height="592" alt="585838442-5164cb0a-b612-4666-a3e3-fb9b01940bb9" src="https://github.com/user-attachments/assets/b068ada7-a9f3-4d0e-8bd7-b35b70ac6096" />
+
 
 ## 🎯 Project Overview
 
@@ -44,5 +45,4 @@ calllog/
 │   └── CallLogUIUtil.java       # UI helper functions
 └── util/
     └── CallType.java            # Enum definitions
-<img width="982" height="611" alt="Screenshot 2026-04-30 001829" src="https://github.com/user-attachments/assets/e4c1d34a-c85f-4766-b7b3-f49984d1c6f3" />
 
